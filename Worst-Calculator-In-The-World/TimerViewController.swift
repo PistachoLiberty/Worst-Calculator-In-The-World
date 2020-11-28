@@ -1,7 +1,7 @@
 //
 //  TimerViewController.swift
 //  Worst-Calculator-In-The-World
-//
+//  This is only a practice run on Swift and on version control using Github. Don't expect anything special in this app. Beginners are welcome to look into they code for reference. Pros are welcome to comment or suggest helpful insights.
 //  Created by Nawras Janoudi on 11/17/20.
 //
 
